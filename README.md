@@ -30,12 +30,12 @@ This project is a **scalable and automated web scraping system** that extracts m
 - Docker (Optional for deployment)
 
 ### **2️⃣ Clone the Repository**
-sh
+```bash
 git clone https://github.com/Swarit172/url-scraper.git
 cd url-scraper
 
-### ** Install Dependencies**
-sh
+### Install Dependencies
+```bash
 npm install
 
 
